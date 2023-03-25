@@ -8,11 +8,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>code display test1</title>
-    <url>/2023/03/16/test1/</url>
-    <content><![CDATA[<h1 id="x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-4-7-0"><a href="#x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-4-7-0" class="headerlink" title="&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;      #####  #    # ##### ##### ###### #####  ###### #      #   #      #    # #    #   #     #   #      #    # #      #       # #      #####  #    #   #     #   #####  #    # #####  #        #      #    # #    #   #     #   #      #####  #      #        #      #    # #    #   #     #   #      #   #  #      #        #      #####   ####    #     #   ###### #    # #      ######   #                            4.7.0"></a>&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;<br>      #####  #    # ##### ##### ###### #####  ###### #      #   #<br>      #    # #    #   #     #   #      #    # #      #       # #<br>      #####  #    #   #     #   #####  #    # #####  #        #<br>      #    # #    #   #     #   #      #####  #      #        #<br>      #    # #    #   #     #   #      #   #  #      #        #<br>      #####   ####    #     #   ###### #    # #      ######   #<br>                            4.7.0</h1>]]></content>
-  </entry>
-  <entry>
     <title>Hello WYX</title>
     <url>/2023/03/16/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -29,6 +24,11 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>code display test1</title>
+    <url>/2023/03/16/test1/</url>
+    <content><![CDATA[<h1 id="x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-4-7-0"><a href="#x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-x3D-4-7-0" class="headerlink" title="&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;      #####  #    # ##### ##### ###### #####  ###### #      #   #      #    # #    #   #     #   #      #    # #      #       # #      #####  #    #   #     #   #####  #    # #####  #        #      #    # #    #   #     #   #      #####  #      #        #      #    # #    #   #     #   #      #   #  #      #        #      #####   ####    #     #   ###### #    # #      ######   #                            4.7.0"></a>&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;<br>      #####  #    # ##### ##### ###### #####  ###### #      #   #<br>      #    # #    #   #     #   #      #    # #      #       # #<br>      #####  #    #   #     #   #####  #    # #####  #        #<br>      #    # #    #   #     #   #      #####  #      #        #<br>      #    # #    #   #     #   #      #   #  #      #        #<br>      #####   ####    #     #   ###### #    # #      ######   #<br>                            4.7.0</h1>]]></content>
   </entry>
   <entry>
     <title>云计算技术 实验三</title>
@@ -95,8 +95,10 @@
 <p><img src="/../img/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF%20%E5%AE%9E%E9%AA%8C%E4%B8%89/6.png"></p>
 <p>Friendy0.github.io端：</p>
 <p><img src="/../img/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF%20%E5%AE%9E%E9%AA%8C%E4%B8%89/8.png"></p>
+<p>修改名称后：<br><img src="/../img/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF%20%E5%AE%9E%E9%AA%8C%E4%B8%89/9.png"></p>
 </li>
 </ul>
+<p>WordPress<br>相较于hexo，wordpress对代码的熟悉能力需求更低，更多的是可视化用户界面，有在线控制面板wordpress来控制主题的更换、文章的撰写、用户权限的设置，其还有丰富的插件系统等，在有php、mysql的虚拟主机的环境下可以实现该博客站点的搭建，支持邮箱撰写博客并上传发表，支持在线撰写文章、安装相应插件实现本地IDE撰写文章等。部署的文章是存储在mysql中的。<br> <img src="/../img/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF%20%E5%AE%9E%E9%AA%8C%E4%B8%89/10.png"><br> <img src="/../img/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF%20%E5%AE%9E%E9%AA%8C%E4%B8%89/11.png"><br> <img src="/../img/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF%20%E5%AE%9E%E9%AA%8C%E4%B8%89/12.png"></p>
 <h3 id="结论分析与体会"><a href="#结论分析与体会" class="headerlink" title="结论分析与体会"></a>结论分析与体会</h3><p>通过本次实验，我学会了如何使用GitHub和Hexo来搭建一个属于自己的个人博客，并在云平台上部署和更新。我了解了GitHub和Hexo的基本原理和操作方法，以及如何利用SSH Key来实现安全的连接和推送。我还学会了如何使用Markdown语言来编写博客内容，并且可以自由地选择不同的主题和插件来美化我的博客。</p>
 <h4 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h4><p>在实验过程中，我遇到了一些问题和困难，比如在安装Git时出现了依赖包缺失的错误，在配置Hexo时出现了路径错误，在部署博客时出现了权限拒绝等。这些问题都是由于我对相关软件和命令不够熟悉所导致的。为了解决这些问题，我需要在网上查找相关资料，并且多次尝试不同的方法，最终才能成功完成实验。比如在ssh公钥对接github时出现了两个问题：</p>
 <ul>
@@ -115,6 +117,10 @@
 </ul>
 <h4 id="实验体会"><a href="#实验体会" class="headerlink" title="实验体会"></a>实验体会</h4><p>通过本实验，我学会了如何在github里搭建一个个人博客，加深了对nodejs的了解和hexo的了解，学会了git的一些使用命令，我认识到了利用云平台搭建个人博客的优势和价值，比如可以节省服务器成本、提高访问速度、保证数据安全等。同时，我也意识到了自己在这方面还有很多不足和需要改进的地方，比如对GitHub和Hexo的使用还不够熟练、对Markdown语言还不够精通、对博客内容和风格还没有明确的定位等。</p>
 <p>总体而言，本次实验是一次非常有意义和有趣的学习过程。它让我体会到了云计算技术给我们带来的便利和可能性，并且锻炼了我的动手能力和解决问题能力。它也让我发现了自己对编程、设计、写作等方面有着浓厚的兴趣，并且激发了我的创造力和想象力。它更让我明白了学习是一个永无止境并且充满乐趣的过程。</p>
+<p>博客的博文地址：</p>
+<p>Hexo博文地址：(最近更换了一github账户名，故不再是friendy0，而是f-hy)<br><a href="https://f-hy.github.io/2023/03/21/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF-%E5%AE%9E%E9%AA%8C%E4%B8%89/">https://f-hy.github.io/2023/03/21/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%8A%80%E6%9C%AF-%E5%AE%9E%E9%AA%8C%E4%B8%89/</a></p>
+<p>wordpress博客地址：<br><a href="http://wp.frid.tech/index.php/2022/12/03/hello-world/">http://wp.frid.tech/index.php/2022/12/03/hello-world/</a></p>
+<p><a href="http://friendy.freedevilhost.ga/">http://friendy.freedevilhost.ga/</a></p>
 ]]></content>
   </entry>
 </search>
